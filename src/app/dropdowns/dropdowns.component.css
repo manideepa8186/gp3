@@ -1,0 +1,25 @@
+.container{
+    margin-top: 10%;
+    margin-left: 30%;
+}
+label{
+  margin-right: 5%;
+}
+.select,option{
+  margin: 15px 0;
+  padding: 12px 10px;
+  outline: none;
+  width: 20%;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  display: block;
+  color: black;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 20px #d2d2d2;
+
+}
+.show{
+  position: absolute;
+  top: 100;
+  right: 130;
+}
